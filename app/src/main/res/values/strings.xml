@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Nine">9</string>
+    <string name="mult">×</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Plus">+</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Menus">-</string>
+    <string name="Zero">0</string>
+    <string name="Point">.</string>
+    <string name="Equal">=</string>
+    <string name="Seven">7</string>
+    <string name="ac">ac</string>
+    <string name="eight">8</string>
+    <string name="div">÷</string>
+    <string name="Sin">Sin</string>
+    <string name="Cos">Cos</string>
+    <string name="Tan">Tan</string>
+    <string name="Sec">Sec</string>
+    <string name="Cot">Cot</string>
+    <string name="Csc">Csc</string>
+    <string name="ParOp">(</string>
+    <string name="ParCl">)</string>
+    <string name="π">Pi</string>
+    <string name="Pi">π</string>
+    <string name="Pow">×^</string>
+    <string name="Raiz">√</string>
+    <string name="BaseDiez">10^</string>
+    <string name="e">e</string>
+    <string name="Ln">ln</string>
+    <string name="Log">log</string>
+    <string name="fac">!</string>
+</resources>
